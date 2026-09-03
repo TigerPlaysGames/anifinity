@@ -1,0 +1,7 @@
+# Shared dependencies for the reproducible CAD and render scripts.
+cadquery==2.8.0
+networkx>=3.0,<4
+numpy>=2.0,<3
+Pillow==12.3.0
+trimesh==5.0.0
+vtk==9.6.2

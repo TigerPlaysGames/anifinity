@@ -1,0 +1,25 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test/tool caches
+.pytest_cache/
+.mypy_cache/
+
+# CAD and slicer working files
+*.gcode
+*.gcode.3mf
+*.bgcode
+*.ctb
+*.lys
+*.sl1
+*.sl1s
+*.tmp
+*.bak
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
